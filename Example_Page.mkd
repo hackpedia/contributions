@@ -1,0 +1,11 @@
+?meta // This is metadata about the page!
+
+?meta:name-- Example Page name
+
+?meta:slug-- exampleslug
+
+?meta:lang-- language of page (en-us, en-ca, fr-fr, etc.)
+
+
+
+Start your page here
